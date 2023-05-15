@@ -1,8 +1,9 @@
 {
-  "author": "Clark",
   "name": "fcc-learn-npm-package-json",
+  "author": "Clark",
+  "description": "this is a learning project from fcc",
   "dependencies": {
-    "express": "^4.14.0"
+    "express": "^4.18.2"
   },
   "main": "server.js",
   "scripts": {
